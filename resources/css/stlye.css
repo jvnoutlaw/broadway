@@ -1,14 +1,69 @@
 * {
-  text-align: center;
   font-family: Helvetica;
+}
+
+.headline {
+  color: white;
+  background-image: url(/Users/jovon/Documents/CodeProjects/broadway/resources/images/the-flatiron-building.png);
+}
+
+li {
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  text-align:center;
 }
 
 h1 {
   font-size: 70px;
-  font-weight: 70px;
-  color: ;
-  background-image:image(resources/images/the-flatiron-building.png);
+  font-weight: bold;
+  text-align: center;
 }
 
-.headline {
-  background-image:image(resources/images/the-flatiron-building.png);
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+.newyork {
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+  background-image: url(/Users/jovon/Documents/CodeProjects/broadway/resources/images/the-flatiron-building.png);
+  color: white;
+}
+
+.find {
+  font-size: 14px;
+  text-align: center;
+}
+
+#foot {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+#point {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#top {
+  color: white;
+}
+
+a {
+  color: white
+}
